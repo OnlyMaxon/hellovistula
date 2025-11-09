@@ -56,10 +56,3 @@ The Main class creates two Car objects with identical values and demonstrates:
 - `equals()` returns `true` (comparing by field values)
 - `hashCode()` returns the same value for both objects
 
-## With Maven (Alternative)
-
-If you prefer using Maven, run:
-```bash
-mvn clean compile
-java -cp target/classes Main
-```
